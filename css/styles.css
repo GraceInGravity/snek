@@ -1,0 +1,17 @@
+#snek {
+  width: 25%;
+  height: auto;
+  display: none;
+}
+
+#snek2 {
+  width: 45%;
+  height: auto;
+  display: none;
+}
+
+#snek3 {
+  width: .05%;
+  height: auto;
+  position:absolute;
+}
